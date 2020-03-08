@@ -1,2 +1,2 @@
-# Practicas_1
-Practica 1 de Mineria de datos
+# Practicas 
+Practica de Mineria de datos
